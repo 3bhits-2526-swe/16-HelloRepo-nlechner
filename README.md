@@ -6,6 +6,9 @@ Kurze Beschreibung des Projekektes: Einführung in Github und git
 
 Entwicklungsplattform:
 
+Habe 1x cloneausgeführt ändere Readme und pushe daten zurück
+
+
 Lessons Learned
 + Punkt 1
-+ Punkt 2
++ Basic worklow git
